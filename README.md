@@ -20,10 +20,11 @@ Practical exercises to reinforce learning:
 
 ### 🚀 Python Projects
 Real-world applications:
-- **Message Automation** - Automated messaging system with customizable messages
-- **Auto Clicker** - Automatic clicking at regular intervals
-- **Screen Screenshot** - Automated screenshot capture
-- **Mouse Tracker** - Real-time mouse position and color tracking
+- **PyAutoGUI Automation** - Collection of automation projects including:
+  - Message Automation - Automated messaging system with customizable messages
+  - Auto Clicker - Automatic clicking at regular intervals
+  - Screen Screenshot - Automated screenshot capture
+  - Mouse Tracker - Real-time mouse position and color tracking
 
 ## 🎯 Learning Path
 
@@ -35,7 +36,7 @@ Real-world applications:
 
 - Python 3.x
 - No additional dependencies required for most examples
-- For automation projects: `pyautogui`, `keyboard`, `Pillow` (see Python Projects/requirements.txt)
+- For automation projects: `pyautogui`, `keyboard`, `Pillow` (see PyAutoGUI/requirements.txt)
 
 ## 📚 Topics Covered
 
@@ -54,7 +55,6 @@ Real-world applications:
 1. Clone this repository
 2. Navigate to any Python file
 3. Run with: `python filename.py`
-4. For automation projects, install dependencies first: `pip install -r Python Projects/requirements.txt`
 
 ## 📝 Note
 
